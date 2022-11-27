@@ -15,9 +15,8 @@ Please follow the below steps to install this project:
 
 Below you will find a screenshot of the functioning alt text feature that has been added to this existing project.
 
-```md
+
 ![alt text](assets/images/Alt-Text.png?raw=true)
-```
 
 ## License
 
